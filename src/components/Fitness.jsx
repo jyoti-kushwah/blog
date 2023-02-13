@@ -15,10 +15,10 @@ export default function Fitness() {
                   <img src="https://media.istockphoto.com/id/915237654/photo/sportswoman-checking-pulse.jpg?b=1&s=170667a&w=0&k=20&c=Lljha98nWNvgP_DZNVVDV0FbGJp_Ewqra-tGdnZTR7c=" className="card-img abcde" alt="..." />
                 </div>
                 <div className="col-md-8">
-                  <div class="card-body">
-                    <h5 class="card-title">Some Guts Are Better Than Others at Harvesting Energy</h5>
-                    <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                    <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                  <div className="card-body">
+                    <h5 className="card-title">Some Guts Are Better Than Others at Harvesting Energy</h5>
+                    <p className="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                    <p className="card-text"><small className="text-muted">Last updated 3 mins ago</small></p>
                   </div>
                 </div>
               </div>
@@ -33,7 +33,7 @@ export default function Fitness() {
                   <div className="card-body">
                     <h5 className="card-title">Watch: Adding a bit of yoga to the day helps keep Keerthy Suresh’s ‘tensions away’</h5>
                     <p className="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                    <p className="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                    <p className="card-text"><small className="text-muted">Last updated 3 mins ago</small></p>
                   </div>
                 </div>
               </div>
@@ -42,13 +42,13 @@ export default function Fitness() {
             <div className=" mb-3">
               <div className="row no-gutters">
                 <div className="col-md-4">
-                  <img src="https://images.indianexpress.com/2022/11/workout_1200_getty.jpg?resize=450,250" class="card-img abcde" alt="..." />
+                  <img src="https://images.indianexpress.com/2022/11/workout_1200_getty.jpg?resize=450,250" className="card-img abcde" alt="..." />
                 </div>
                 <div className="col-md-8">
                   <div className="card-body">
                     <h5 className="card-title">Try these five workout snacks before your next sweat session</h5>
                     <p className="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                    <p className="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                    <p className="card-text"><small className="text-muted">Last updated 3 mins ago</small></p>
                   </div>
                 </div>
               </div>
@@ -77,7 +77,7 @@ export default function Fitness() {
                   <div className="card-body">
                     <h5 className="card-title">Weight loss: Are you making these three common mistakes?</h5>
                     <p className="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-                    <p className="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                    <p className="card-text"><small className="text-muted">Last updated 3 mins ago</small></p>
                   </div>
                 </div>
               </div>
@@ -91,7 +91,7 @@ export default function Fitness() {
                 <div className="col-md-8">
                   <div className="card-body">
                     <h5 className="card-title">Card title</h5>
-                    <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                    <p className="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
                     <p className="card-text"><small className="text-muted">Last updated 3 mins ago</small></p>
                   </div>
                 </div>
